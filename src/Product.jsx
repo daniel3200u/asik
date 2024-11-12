@@ -41,6 +41,7 @@ export default function Product() {
             price={item.price}
             />
         ))}
+      <iframe src="https://v2-embednotion.com/13cd6e988eac809db648cacd58960b50" style="width: 100%; height: 500px; border: 2px solid #ccc; border-radius: 10px; padding: none;"></iframe>
       <Card img="assets\tas-gucci.png" title="gucci kulit" price="$200"/>
       <Card img="assets\cpu-cooler.png" title="cpu ganteng" price="$200"/>
       <Card img="assets\jacket.png" title="jacket" price="$200"/>
